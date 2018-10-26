@@ -1,0 +1,7 @@
+com.mycompany.myapp.BuildConfig
+com.mycompany.myapp.R
+com.mycompany.myapp.R$attr
+com.mycompany.myapp.R$drawable
+com.mycompany.myapp.R$layout
+com.mycompany.myapp.R$string
+com.mycompany.myapp.R$style

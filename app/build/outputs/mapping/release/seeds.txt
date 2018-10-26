@@ -1,0 +1,7 @@
+com.mycompany.myapp.MainActivity
+com.mycompany.myapp.MainActivity: MainActivity()
+com.mycompany.myapp.R$drawable: int ic_launcher
+com.mycompany.myapp.R$layout: int main
+com.mycompany.myapp.R$string: int app_name
+com.mycompany.myapp.R$string: int hello_world
+com.mycompany.myapp.R$style: int AppTheme
